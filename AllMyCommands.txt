@@ -1,0 +1,43 @@
+ 1 cd desktop/repo
+   2 cd desktop
+   3 cd repo
+   4 cd desktop
+   5 cd repo
+   6 cd repo
+   7 cd..
+   8 cd..
+   9 cd onedrive
+  10 cd OneDrive
+  11 cd g_z48
+  12 cd OneDrive
+  13 cd desktop
+  14 cd repo
+  15 git init
+  16 git init
+  17 git init
+  18 git status
+  19 git add DistributedGit.txt
+  20 git add VersionControl.txt
+  21 gti add branching.txt
+  22 git add branching.txt
+  23 git rm --cached branching.txt
+  24 git status
+  25 git add branching.txt
+  26 git commit
+  27 git reset
+  28 git status
+  29 git reset HEAD
+  30 git status
+  31 git commit --amend
+  32 git remote add origin https://github.com/gharam37/individual.git
+  33 git push -u origin master
+  34 Get-history
+  35 git branch ReadMe
+  36 git checkout ReadMe
+  37 git status
+  38 git add README.MD
+  39 git status
+  40 git commit
+  41 git checkout master
+  42 git merge ReadMe
+  43 git status
