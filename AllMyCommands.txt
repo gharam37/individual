@@ -41,3 +41,14 @@
   41 git checkout master
   42 git merge ReadMe
   43 git status
+
+...........................
+
+
+1 git clone https://github.com/gharam37/individual.git
+   2 git status
+   3 cd individual
+   4 git status
+   5 git add README.MD
+   6 git commit
+   7 git push -u origin master
